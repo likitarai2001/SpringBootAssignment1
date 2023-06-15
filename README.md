@@ -8,16 +8,16 @@ Path: http://localhost:8080/register
 
 The image is when user registers successfully
 
-![registration page](./images/Screenshot from 2023-06-15 15-02-01.png)
+<img src="images/Screenshot from 2023-06-15 15-02-01.png" alt="registration page"/>
 
 #### Login page 
 Path: http://localhost:8080/login
 
 The image is when user enters invalid credentials
 
-![login page](./images/Screenshot from 2023-06-15 15-02-22.png)
+<img src="images/Screenshot from 2023-06-15 15-02-22.png" alt="login page"/>
 
-The image is when user enters correct credentials and they are directed to homepage 
+Home page is rendered when user enters correct credentials 
 
-![home page](./images/Screenshot from 2023-06-15 15-02-36.png)
+<img src="images/Screenshot from 2023-06-15 15-02-36.png" alt="home page"/>
 
